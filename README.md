@@ -1,2 +1,2 @@
 # Covid-19-Data-WebScraper
-COVID-19 pandemic data/Nigeria medical cases
+The Covid-19-Data-WebScraper scrapes covid19 data from http://covid19.ncdc.gov.ng/ and also writes to a new file called 'cases.csv'
